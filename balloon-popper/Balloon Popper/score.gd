@@ -9,3 +9,4 @@ func increase_score (amount):
 	score_text.text = str("score: ", score)
 
 #edit this file for the pull request
+#second time to pull request
